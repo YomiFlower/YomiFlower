@@ -4,11 +4,11 @@
     <br><br>
     <pre>
       🔭 I'm currently working on my Linux Rice
-      🌱 I'm currently learning Photography, Arch, Niri, and python.
+      🌱 I'm currently learning about Photography, Arch, Niri, and python.
       🤝 I'm looking for help with my rice
       💬 Ask me about whatever you want
-      📫 How to reach me on discord @yomi_flower
-      ⚡ Fun fact I might take a nap in class later
+      📫 You can reach me on discord @yomi_flower
+      💤 I might take a nap in class later
       
   </pre>
    <br><br>
