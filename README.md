@@ -1,14 +1,15 @@
 <div align="center">
-    <img src="https://i.pinimg.com/736x/fd/55/0f/fd550fdc57abf459899a02f5b9c7b409.jpg" width="20%" align="right" />
     <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=%E2%9C%A9+Hello+hello;I'm+Yomi%2C+a+tech+goblin+and+witch+wannabe+%E2%9C%A9" width="70%" />
     <br><br>
+      <img src="https://i.pinimg.com/736x/fd/55/0f/fd550fdc57abf459899a02f5b9c7b409.jpg" width="20%" align="right" />
     <pre>
       🌱 I'm currently learning about Photography, Data science, and python.
       💬 Ask me about whatever you want
-      📫 You can reach me on matrix @freya:unredacted.org
+      📫 You can reach me on matrix <a href="[url](https://matrix.to/#/@freya:unredacted.org)">@freya:unredacted.org</a>
       💤 I might take a nap in class later
       
   </pre>
+  
    <br><br>
    <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
     
