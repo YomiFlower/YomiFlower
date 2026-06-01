@@ -5,7 +5,7 @@
     <pre>
 🌱 I'm currently learning about Photography, Data science, and python.
 💬 Ask me about whatever you want
-📫 You can reach me on matrix **@freya:unredacted.org
+📫 You can reach me on matrix @freya:unredacted.org
 💤 I might take a nap in class later
       
   </pre>
