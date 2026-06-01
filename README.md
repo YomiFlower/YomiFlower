@@ -3,10 +3,10 @@
     <br><br>
       <img src="https://i.pinimg.com/736x/fd/55/0f/fd550fdc57abf459899a02f5b9c7b409.jpg" width="20%" align="right" />
     <pre>
-      🌱 I'm currently learning about Photography, Data science, and python.
-      💬 Ask me about whatever you want
-      📫 You can reach me on matrix @freya:unredacted.org
-      💤 I might take a nap in class later
+🌱 I'm currently learning about Photography, Data science, and python.
+💬 Ask me about whatever you want
+📫 You can reach me on matrix @freya:unredacted.org
+💤 I might take a nap in class later
       
   </pre>
   
